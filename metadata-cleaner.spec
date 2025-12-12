@@ -1,7 +1,7 @@
 Summary:	A Python GTK application to view and clean metadata in files using mat2 
 Name:		metadata-cleaner
 Version:	2.2.8
-Release:	1
+Release:	2
 License:	GPLv3+ and CC-BY-SA
 Group:		File tools
 URL:		https://metadatacleaner.romainvigier.fr
